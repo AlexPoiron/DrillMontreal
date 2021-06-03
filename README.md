@@ -20,7 +20,7 @@ Pour la partie réelle et appliquée à cette magnifique ville qu'est Montréal,
 ## Exécution de la solution :
  
 *  **conda activate ox** pour vous mettre dans un environnement virtuel avec OSMnx
-*  ** bash script.sh** un script exécutant une démonstration de notre solution sur le quartier Outremont a Montreal. Les options d'affichage des cartes étant activées, il est nécessaire de fermer les fenêtres s'ouvrant pour continuer l'exécution de notre code.
+*  **bash script.sh** un script exécutant une démonstration de notre solution sur le quartier Outremont a Montreal. Les options d'affichage des cartes étant activées, il est nécessaire de fermer les fenêtres s'ouvrant pour continuer l'exécution de notre code.
 
 ## Descriptif de la structure
 
