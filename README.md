@@ -20,7 +20,7 @@ Pour la partie réelle et appliquée à cette magnifique ville qu'est Montréal,
 ## Exécution de la solution :
  
 *  **conda activate ox** pour vous mettre dans un environnement virtuel avec OSMnx
-*  **./script.sh** un script exécutant une démonstration de notre solution sur la ville du Kremlin-Bicêtre. Les options d'affichage des cartes étant activées, il est nécessaire de fermer les fenêtres s'ouvrant pour continuer l'exécution de notre code.
+*  **./script.sh** un script exécutant une démonstration de notre solution sur le quartier Outremont a Montreal. Les options d'affichage des cartes étant activées, il est nécessaire de fermer les fenêtres s'ouvrant pour continuer l'exécution de notre code.
 
 ## Descriptif de la structure
 
@@ -28,6 +28,6 @@ Pour la partie réelle et appliquée à cette magnifique ville qu'est Montréal,
 * **`theoretical_case/`** : une sous-arborescence consacrée à l’étude du cas théorique 
 * **`AUTHORS`** : fichier contenant la liste des créateurs de cette solution
 * **`LINKS`** : fichier contenant le lien vers la vidéo de présentation de la solution
-* **`script.sh`** : le script exécutant une démonstration de notre solution appliquée à la ville du Kremlin-Bicêtre
+* **`script.sh`** : le script exécutant une démonstration de notre solution appliquée sur le quartier Outremont a Montreal
 * **`script_theoretical.sh`** : le script ouvrant le jupyter contenant le code dans le cas théorique pour le parcours de graphe eulérien non orienté
 * **`script_real.sh`** : le script ouvrant le jupyter contenant les codes dans le cas réel pour le drone et pour les déneigeuses
