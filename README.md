@@ -24,8 +24,8 @@ Pour la partie réelle et appliquée à cette magnifique ville qu'est Montréal,
 
 ## Descriptif de la structure
 
-* **`real_case`** : une sous-arborescence consacrée à l’étude du cas réel d'un quartier de Montréal, LaSalle
-* **`theoretical_case`** : une sous-arborescence consacrée à l’étude du cas théorique 
+* **`real_case/`** : une sous-arborescence consacrée à l’étude du cas réel d'un quartier de Montréal, LaSalle
+* **`theoretical_case/`** : une sous-arborescence consacrée à l’étude du cas théorique 
 * **`AUTHORS`** : fichier contenant la liste des créateurs de cette solution
 * **`LINKS`** : fichier contenant le lien vers la vidéo de présentation de la solution
 * **`script.sh`** : le script exécutant une démonstration de notre solution appliquée à la ville du Kremlin-Bicêtre
