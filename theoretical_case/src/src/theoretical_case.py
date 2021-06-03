@@ -1,30 +1,6 @@
 def nedge(a, b):
     return (a, b) if a < b else (b, a)
 
-
-def is_eulerian_cycle(edges, cycle):
-    if len(edges) != len(cycle):
-        return False
-    if len(edges) == 0:
-        return True
-    eset = {}
-    for (a, b) in edges:
-        s = nedge(a, b)
-        if s in eset:
-            eset[s] += 1
-        else:
-            eset[s] = 1
-    for (a, b) in zip(cycle, cycle[1:]+cycle[0:1]):
-        s = nedge(a, b)
-        if s in eset and eset[s] > 0:
-            eset[s] -= 1
-        else:
-            return False
-    for val in eset.values():
-        if val != 0:
-            return False
-    return True
-
 #Create the list of edges from a matrix representing a graph
 def mat_to_edges(mat):
     edges = []
