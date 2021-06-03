@@ -4,7 +4,6 @@ En effet, la neige est plus que présente sur le réseau routier et bouche toute
 Notre mission est la suivante, déneiger le plus efficacement Montréal afin de pouvoir assister à ce showcase plus que mouvementé de qualité.
 
 Celle ci ce découpe en 2 parties :
-
 * Faire une analyse de ce réseau routier montréalais suffisament fine pour y retrouver des informations croustillantes.
 * Déblayer toutes les routes le plus rapidement et efficacement possible.
 
@@ -16,10 +15,5 @@ Pour la partie réelle et apliquée à cette maginifique ville qu'est Montréal,
 
 Voici les commandes :
  
-* En utilisant donc Anaconda vous pouvez rentrer cette comnmande pour vous mettre dans une envronmment virtuel avec OSMnx : 
-*conda activate ox*
-* Vous n'avez plus qu'à lancer le script qui vous ouvrira notre dossier Jupyter : 
-*./script.sh*
-
-
-
+*  *conda activate ox* pour vous mettre dans un envrionnement virtuel avec OSMnx
+*  *./script.sh* pour ouvrir notre dossier Jupyter
