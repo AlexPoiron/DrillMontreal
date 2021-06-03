@@ -12,12 +12,14 @@ Celle ci ce découpe en 2 parties :
 
 Pour la partie theorique du probleme, 
 
-Pour la partie réelle et apliquée à cette maginifique ville qu'est Montréal, ssurez vous d'avoir dans un premier temps la biblioteque OSMnx d'installée sur votre ordinateur. (https://osmnx.readthedocs.io/en/stable/)
+Pour la partie réelle et apliquée à cette maginifique ville qu'est Montréal, assurez vous d'avoir dans un premier temps la biblioteque OSMnx d'installée sur votre ordinateur. (https://osmnx.readthedocs.io/en/stable/)
 
 Voici les commandes :
  
-* En utilisant donc Anaconda vous pouvez rentrer cette comnmande pour vous mettre dans une envronmment virtuel avec OSMnx : *conda activate ox*
-* Vous n'avez plus qu'à lancer le script qui vous ouvrira notre dossier Jupyter :  *./script.sh*
+* En utilisant donc Anaconda vous pouvez rentrer cette comnmande pour vous mettre dans une envronmment virtuel avec OSMnx : 
+*conda activate ox*
+* Vous n'avez plus qu'à lancer le script qui vous ouvrira notre dossier Jupyter : 
+*./script.sh*
 
 
 
