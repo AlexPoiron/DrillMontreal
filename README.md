@@ -11,9 +11,13 @@ Celle ci ce découpe en 2 parties :
 
 Pour la partie theorique du probleme, 
 
-Pour la partie réelle et apliquée à cette maginifique ville qu'est Montréal, assurez vous d'avoir dans un premier temps la biblioteque OSMnx d'installée sur votre ordinateur. (https://osmnx.readthedocs.io/en/stable/)
+Pour la partie réelle et appliquée à cette magnifique ville qu'est Montréal, assurez vous d'avoir dans un premier temps les bibliothèques OSMnx, networkX, colorama et datetime d'installées dans un environnement virtuel sur votre ordinateur. 
+* https://osmnx.readthedocs.io/en/stable/
+* https://networkx.org/documentation/stable/index.html
+* https://pypi.org/project/colorama/
+* https://docs.python.org/3/library/datetime.html
 
 Voici les commandes :
  
-*  **conda activate ox** pour vous mettre dans un envrionnement virtuel avec OSMnx
+*  **conda activate ox** pour vous mettre dans un environnement virtuel avec OSMnx
 *  **./script.sh** pour ouvrir notre dossier Jupyter
