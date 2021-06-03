@@ -15,5 +15,5 @@ Pour la partie réelle et apliquée à cette maginifique ville qu'est Montréal,
 
 Voici les commandes :
  
-*  *conda activate ox* pour vous mettre dans un envrionnement virtuel avec OSMnx
-*  *./script.sh* pour ouvrir notre dossier Jupyter
+*  **conda activate ox** pour vous mettre dans un envrionnement virtuel avec OSMnx
+*  **./script.sh** pour ouvrir notre dossier Jupyter
