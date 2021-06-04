@@ -85,6 +85,7 @@ def main_snowplow(neighborhood, city, country, road_type, required_len_pull, req
     path = dict(nx.all_pairs_shortest_path(G))
     all_path = create_path_pull(path, required_len)
     res_path = find_critical_road(G, path, all_path, min_accuracy, required_len, completion, maps)
+    print(Fore.BLUE + Style.BRIGHT + "Number of snowplot used : " + str(len(res_path)) + Style.RESET_ALL)
 
 
 def create_path_pull(path, required_len):

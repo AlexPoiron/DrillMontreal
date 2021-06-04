@@ -1,1 +1,0 @@
-jupyter lab real_case/*
