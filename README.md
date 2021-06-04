@@ -17,10 +17,15 @@ Pour la partie réelle et appliquée à cette magnifique ville qu'est Montréal,
 * https://pypi.org/project/colorama/
 * https://docs.python.org/3/library/datetime.html
 
-## Exécution de la solution :
+## Exécution de la solution
  
 *  **conda activate ox** pour vous mettre dans un environnement virtuel avec OSMnx
 *  **bash script.sh** un script exécutant une démonstration de notre solution sur le quartier Outremont à Montréal. Les options d'affichage des cartes étant activées, il est nécessaire de fermer les fenêtres s'ouvrant pour continuer l'exécution de notre code.
+
+## Notre travail détaillé
+
+* Dans le dossier `real_case/` vous trouverez 2 fichiers jupyter qui décrivent pas à pas l'exécution de notre code pour la partie sur le drone et la partie sur les déneigeuses.
+* Dans le dossier `theoretical_case/` vous trouverez un fichier jupyter expliquant notre solution d'un point de vue théorique.
 
 ## Descriptif de la structure
 
