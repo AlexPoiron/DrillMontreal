@@ -1,7 +1,7 @@
 # DrillMontreal
 Ton Drilleur préféré est bloqué à son hôtel et ne peut rejoindre son showcase à Montréal, aide-le en allumant la neige telle les opps.
 En effet, la neige est plus que présente sur le réseau routier et bouche toute la circulation. 
-Notre mission est la suivante, déneiger le plus efficacement Montréal afin de pouvoir assister à ce showcase plus que mouvementé de qualité.
+Notre mission est la suivante, déneiger le plus efficacement Montréal afin de pouvoir assister à ce showcase de qualité.
 
 Celle-ci se découpe en 2 parties :
 * Faire une analyse de ce réseau routier montréalais suffisamment fine pour y retrouver des informations croustillantes.
