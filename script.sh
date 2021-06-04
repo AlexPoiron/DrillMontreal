@@ -1,2 +1,1 @@
-jupyter lab real_case/drone.ipynb
-jupyter lab real_case/snowplow.ipynb
+python3 real_case/main.py
